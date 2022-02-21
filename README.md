@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonsig
-- 👀 I’m interested in IT in general, web programming, IoT, AI, and management.
+- 👀 I’m interested in IT in general, web programming, Automation, IoT, AI, and management.
 - 🌱 I’m currently learning framework laravel.
 - 💞️ I try to collaborate on my students' projects.
 - 📫 How to reach me:
